@@ -1,0 +1,2 @@
+Activate virtual environment env and run test by command
+> pytest test.py
