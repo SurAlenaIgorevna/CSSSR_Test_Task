@@ -1,2 +1,7 @@
-Activate virtual environment env and run test by command
+This test checks if the link in the second tab is correct.
+
+Activate virtual environment:
+> source env/bin/activate
+
+and run test by command
 > pytest test.py
